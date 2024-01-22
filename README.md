@@ -1,2 +1,2 @@
 # c_learning
-here I make and run basic c programs 
+here I create basic c programs
